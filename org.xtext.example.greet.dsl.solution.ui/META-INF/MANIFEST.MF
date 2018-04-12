@@ -23,3 +23,4 @@ Export-Package: org.xtext.example.greet.dsl.ui.quickfix,
  org.xtext.example.greet.dsl.solution.ui.internal,
  org.xtext.example.greet.dsl.ui.contentassist
 Bundle-Activator: org.xtext.example.greet.dsl.solution.ui.internal.SolutionActivator
+Automatic-Module-Name: org.xtext.example.greet.dsl.solution.ui

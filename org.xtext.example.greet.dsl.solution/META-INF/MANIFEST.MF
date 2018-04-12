@@ -29,3 +29,4 @@ Export-Package: org.xtext.example.greet.dsl.validation,
  org.xtext.example.greet.dsl.parser.antlr,
  org.xtext.example.greet.dsl.formatting2
 Import-Package: org.apache.log4j
+Automatic-Module-Name: org.xtext.example.greet.dsl.solution
