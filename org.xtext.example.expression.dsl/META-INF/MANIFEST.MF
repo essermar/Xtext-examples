@@ -27,3 +27,4 @@ Export-Package: org.xtext.example.expression.dsl.services,
  org.xtext.example.expression.dsl.parser.antlr.internal,
  org.xtext.example.expression.dsl.parser.antlr
 Import-Package: org.apache.log4j
+Automatic-Module-Name: org.xtext.example.expression.dsl

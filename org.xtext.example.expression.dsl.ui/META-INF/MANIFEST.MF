@@ -23,3 +23,4 @@ Export-Package: org.xtext.example.expression.dsl.ui.quickfix,
  org.xtext.example.expression.dsl.ui.internal,
  org.xtext.example.expression.dsl.ui.contentassist
 Bundle-Activator: org.xtext.example.expression.dsl.ui.internal.DslActivator
+Automatic-Module-Name: org.xtext.example.expression.dsl.ui
